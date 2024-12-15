@@ -1,0 +1,5 @@
+abhi,$2y$10$ri.DRG2iUF1.IQFmu5U/TuEEmUmeCAYgNUz06HWx3ypzcm6SqoOiG,user
+aaaa,$2y$10$p3OD.NpdCCQfarE4tnaMGuYkwVPKM5BSpcHBaUZ2uazQkQbb5qc6a,user
+avb,$2y$10$8hvchysH154J36yQJePfH.VJOWCVDGQvocTupVUGXmt9Q/oISy5j.,user
+dddd,$2y$10$pOhs69vgC/NkPm82cz.zluhyqgzIuS.szDKUg9PV8J/ZgONfKdvVK,admin
+asd,$2y$10$yopAqorumqK/T4zxcbTkk.IsTpyYc0LATxdxxfRru31X57r2eOXzG,user
