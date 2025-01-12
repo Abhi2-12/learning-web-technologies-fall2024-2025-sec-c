@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+    <link rel="stylesheet" href="../Style/styles.css">
+
+</head>
+<body>
+    <h1>Job Portal</h1>
+    <form method="post" action="../Controller/loginCheck.php">
+        <label for="username">username</label>
+        <input type="text" name="Username" required /> <br>
+
+        <label for="password">Password</label>
+        <input type="password" name="password" required /> <br><br>
+
+        <input type="submit" name="submit" value="Login" />
+    </form>
+
+    <div class="back-btn">
+        <a href="../View/reg.php">Registration</a>
+    </div>
+</body>
+</html>
